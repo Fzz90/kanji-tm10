@@ -1,0 +1,16 @@
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/styles.css
+!/script.js
+!/README.md
+!/assets/
+/assets/*
+!/assets/05371.svg
+!/assets/favicon.svg
+!/assets/KosugiMaru-LICENSE.txt
+!/assets/KosugiMaru-Regular.ttf
+!/assets/Neuton-*.ttf
+!/assets/Neuton-OFL.txt
+!/assets/RemixIcon-LICENSE.txt
